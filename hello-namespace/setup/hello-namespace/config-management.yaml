@@ -4,7 +4,7 @@ metadata:
   name: config-management
   namespace: config-management-system
 spec:
-  clusterName: buque-cluster
+  clusterName: navantia-cluster
   git:
     syncRepo: git@github.com:analopezm/csp-config-management.git
     syncBranch: 1.0.0
