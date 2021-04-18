@@ -4,7 +4,7 @@ metadata:
   name: config-management
   namespace: config-management-system
 spec:
-  clusterName: navantia-cluster
+  clusterName: min-defensa-cluster
   git:
     syncRepo: git@github.com:analopezm/csp-config-management.git
     syncBranch: 1.0.0
